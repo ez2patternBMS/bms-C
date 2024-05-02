@@ -1,0 +1,486 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE Happy New Year
+#TITLE 除夜の鐘
+#ARTIST Ninja Action Team / Doo
+#BPM 190
+#PLAYLEVEL 0
+#RANK 2
+#TOTAL 80
+#STAGEFILE title.bmp
+
+#WAV01 Dr_kick.wav
+#WAV02 Dr_snare.wav
+#WAV03 Dr_clap.wav
+#WAV04 Dr_cym.wav
+#WAV05 Dr_chh.wav
+#WAV06 Dr_ohh.wav
+#WAV07 Perc01.wav
+#WAV08 Perc02.wav
+#WAV09 Perc03.wav
+#WAV0A Perc04.wav
+#WAV0B Kane01.wav
+#WAV0C Kane02.wav
+#WAV0D Kane03.wav
+#WAV0E Reverse01.wav
+#WAV0F Reverse02.wav
+#WAV10 Bass_A.wav
+#WAV11 Bass_A+.wav
+#WAV12 Bass_B.wav
+#WAV13 Bass_B+.wav
+#WAV14 Bass_D.wav
+#WAV15 Bass_D+.wav
+#WAV16 Bass_E.wav
+#WAV17 Bass_E+.wav
+#WAV18 Bass_F#.wav
+#WAV19 Bass_F#+.wav
+#WAV1A Bass_F.wav
+#WAV1B Bass_F+.wav
+#WAV1C Bass_G.wav
+#WAV1D Bass_G+.wav
+#WAV1E Koto_A.wav
+#WAV1F Koto_A+.wav
+#WAV20 Koto_B.wav
+#WAV21 Koto_B+.wav
+#WAV22 Koto_C.wav
+#WAV23 Koto_C+.wav
+#WAV24 Koto_D.wav
+#WAV25 Koto_D+.wav
+#WAV26 Koto_D++.wav
+#WAV27 Koto_E.wav
+#WAV28 Koto_F#.wav
+#WAV29 Koto_F.wav
+#WAV2A Koto_G.wav
+#WAV2B Koto_G+.wav
+#WAV2C Lead_A-.wav
+#WAV2D Lead_A--.wav
+#WAV2E Lead_B.wav
+#WAV2F Lead_B-.wav
+#WAV30 Lead_D.wav
+#WAV31 Lead_D--.wav
+#WAV32 Lead_D+.wav
+#WAV33 Lead_D+-.wav
+#WAV34 Lead_E.wav
+#WAV35 Lead_E-.wav
+#WAV36 Lead_F#-.wav
+#WAV37 Lead_F#--.wav
+#WAV38 Lead_G.wav
+#WAV39 Lead_G-.wav
+#WAV3A Lead_G--.wav
+#WAV3B Lead2_01.wav
+#WAV3C Lead2_02.wav
+#WAV3D Lead2_03.wav
+#WAV3E Lead2_04.wav
+#WAV3F Lead2_05.wav
+#WAV40 Lead2_A.wav
+#WAV41 Lead2_A--.wav
+#WAV42 Lead2_A+.wav
+#WAV43 Lead2_B.wav
+#WAV44 Lead2_B-.wav
+#WAV45 Lead2_C#.wav
+#WAV46 Lead2_D.wav
+#WAV47 Lead2_D-.wav
+#WAV48 Lead2_D--.wav
+#WAV49 Lead2_D---.wav
+#WAV4A Lead2_E.wav
+#WAV4B Lead2_E-.wav
+#WAV4C Lead2_E--.wav
+#WAV4D Lead2_F#.wav
+#WAV4E Lead2_F#-.wav
+#WAV4F Lead2_F#--.wav
+#WAV50 Lead2_F#---.wav
+#WAV51 Lead2_F#----.wav
+#WAV52 Lead2_G.wav
+#WAV53 MG_A.wav
+#WAV54 MG_A-.wav
+#WAV55 MG_A--.wav
+#WAV56 MG_A---.wav
+#WAV57 MG_A+.wav
+#WAV58 MG_B.wav
+#WAV59 MG_B+.wav
+#WAV5A MG_C#.wav
+#WAV5B MG_C#+.wav
+#WAV5C MG_C.wav
+#WAV5D MG_C-.wav
+#WAV5E MG_D.wav
+#WAV5F MG_D+-.wav
+#WAV60 MG_D+.wav
+#WAV61 MG_D++.wav
+#WAV62 MG_E.wav
+#WAV63 MG_E+.wav
+#WAV64 MG_F#.wav
+#WAV65 MG_F#+.wav
+#WAV66 MG_F-.wav
+#WAV67 MG_G.wav
+#WAV68 MG_G-.wav
+#WAV69 MG_G+.wav
+#WAV6A Pad01.wav
+#WAV6B Pad02.wav
+#WAV6C Pad03.wav
+#WAV6D Pad04.wav
+#WAV6E Pad05.wav
+#WAV6F Pad06.wav
+#WAV70 Shami_A.wav
+#WAV71 Shami_A+.wav
+#WAV72 Shami_C.wav
+#WAV73 Shami_D.wav
+#WAV74 Shami_E.wav
+#WAV75 Shami_F#.wav
+#WAV76 Shami_F#+.wav
+#WAV77 Shami_G.wav
+#WAV78 Stack_A.wav
+#WAV79 Stack_C.wav
+#WAV7A Stack_C-.wav
+#WAV7B Stack_C--.wav
+#WAV7C Stack_D.wav
+#WAV7D Stack_D-.wav
+#WAV7E Stack_D--.wav
+#WAV7F Stack_E.wav
+#WAV80 Stack01.wav
+#WAV81 Stack01+.wav
+#WAV82 Stack02.wav
+#WAV83 Stack02+.wav
+#WAV84 Stack03.wav
+#WAV85 Stack03+.wav
+#WAV86 Stack04.wav
+#WAV87 Stack05.wav
+#WAV88 Stack06.wav
+#WAV89 Stack06+.wav
+#WAV8A Stack07.wav
+#WAV8B Stack07+.wav
+#WAV8C Stack08.wav
+#WAV8D SE01.wav
+#WAV8E SE02.wav
+#WAV8F SE03.wav
+#WAV90 Voice01.wav
+#WAV91 Voice02.wav
+#WAV92 Voice03.wav
+#WAV93 Kane04.wav
+#WAV94 Koto_G#.wav
+#WAV95 Fire.wav
+#WAV96 Voice04.wav
+#WAV97 Voice05.wav
+#WAV98 Voice06.wav
+
+#BMP00 miss.bmp
+#BMP01 asahi01.bmp
+#BMP02 asahi02.bmp
+#BMP03 comic01.bmp
+#BMP04 comic02.bmp
+#BMP05 comic03.bmp
+#BMP06 comic04.bmp
+#BMP07 comic05.bmp
+#BMP08 comic06.bmp
+#BMP09 comic07.bmp
+#BMP0A comic08.bmp
+#BMP0B comic09.bmp
+#BMP0C comic10.bmp
+#BMP0D comic11.bmp
+#BMP0E comic12.bmp
+#BMP0F comic13.bmp
+#BMP10 comic14.bmp
+#BMP11 comic15.bmp
+#BMP12 comic16.bmp
+#BMP13 count01.bmp
+#BMP14 count02.bmp
+#BMP15 count03.bmp
+#BMP16 count04.bmp
+#BMP17 count05.bmp
+#BMP18 count06.bmp
+#BMP19 count07.bmp
+#BMP1A count08.bmp
+#BMP1B count09.bmp
+#BMP1C count10.bmp
+#BMP1D count11.bmp
+#BMP1E count12.bmp
+#BMP1F count13.bmp
+#BMP20 count14.bmp
+#BMP21 count15.bmp
+#BMP22 count16.bmp
+#BMP23 count17.bmp
+#BMP24 count18.bmp
+#BMP25 count19.bmp
+#BMP26 count20.bmp
+#BMP27 ebiichi01.bmp
+#BMP28 ebiichi02.bmp
+#BMP29 ebiichi03.bmp
+#BMP2A ebiichi04.bmp
+#BMP2B eto01.bmp
+#BMP2C eto02.bmp
+#BMP2D eto03.bmp
+#BMP2E fugaku01.bmp
+#BMP2F fugaku02.bmp
+#BMP30 fugaku03.bmp
+#BMP31 fugaku04.bmp
+#BMP32 fugaku05.bmp
+#BMP33 fugaku06.bmp
+#BMP34 fugaku07.bmp
+#BMP35 fugaku08.bmp
+#BMP36 haiku01.bmp
+#BMP37 haiku02.bmp
+#BMP38 haiku03.bmp
+#BMP39 haiku04.bmp
+#BMP3A gasho01.bmp
+#BMP3B gasho02.bmp
+#BMP3C gasho03.bmp
+#BMP3D gasho04.bmp
+#BMP3E gasho05.bmp
+#BMP3F gasho06.bmp
+#BMP40 gasho07.bmp
+#BMP41 gasho08.bmp
+#BMP42 gasho09.bmp
+#BMP43 gasho10.bmp
+#BMP44 gasho11.bmp
+#BMP45 gasho12.bmp
+#BMP46 gasho13.bmp
+#BMP47 gasho14.bmp
+#BMP48 gasho15.bmp
+#BMP49 gasho16.bmp
+#BMP4A kakizome.bmp
+#BMP4B kane01.bmp
+#BMP4C kane02.bmp
+#BMP4D kane03.bmp
+#BMP4E kane04.bmp
+#BMP4F kane05.bmp
+#BMP50 kane06.bmp
+#BMP51 kane07.bmp
+#BMP52 kane08.bmp
+#BMP53 kane-b05.bmp
+#BMP54 kane-b06.bmp
+#BMP55 kane-b07.bmp
+#BMP56 kane-b08.bmp
+#BMP57 kane-f01.bmp
+#BMP58 kane-f02.bmp
+#BMP59 kane-f03.bmp
+#BMP5A kane-s05.bmp
+#BMP5B kane-s06.bmp
+#BMP5C kane-s07.bmp
+#BMP5D kane-s08.bmp
+#BMP5E kouhaku01.bmp
+#BMP5F kouhaku02.bmp
+#BMP60 kouhaku03.bmp
+#BMP61 kouhaku04.bmp
+#BMP62 kouhaku05.bmp
+#BMP63 kouhaku06.bmp
+#BMP64 kouhaku07.bmp
+#BMP65 kouhaku08.bmp
+#BMP66 maku01.bmp
+#BMP67 maku02.bmp
+#BMP68 maku03.bmp
+#BMP69 maku04.bmp
+#BMP6A maku05.bmp
+#BMP6B n01.bmp
+#BMP6C n02.bmp
+#BMP6D n03.bmp
+#BMP6E n04.bmp
+#BMP6F n05.bmp
+#BMP70 n06.bmp
+#BMP71 n07.bmp
+#BMP72 n08.bmp
+#BMP73 n09.bmp
+#BMP74 n10.bmp
+#BMP75 n11.bmp
+#BMP76 n12.bmp
+#BMP77 n13.bmp
+#BMP78 n14.bmp
+#BMP79 n15.bmp
+#BMP7A n16.bmp
+#BMP7B nihon1.bmp
+#BMP7C nihon2.bmp
+#BMP7D nihon3.bmp
+#BMP7E nihon4.bmp
+#BMP7F nihon5.bmp
+#BMP80 nihon6.bmp
+#BMP81 nihon7.bmp
+#BMP82 nihon8.bmp
+#BMP83 ninja01.bmp
+#BMP84 ninja02.bmp
+#BMP85 ninja03.bmp
+#BMP86 ninja04.bmp
+#BMP87 ninja05.bmp
+#BMP88 ninja06.bmp
+#BMP89 ninja07.bmp
+#BMP8A ninja08.bmp
+#BMP8B ninja09.bmp
+#BMP8C ninja10.bmp
+#BMP8D ninja11.bmp
+#BMP8E ninja12.bmp
+#BMP8F ninja13.bmp
+#BMP90 ninja14.bmp
+#BMP91 ninja15.bmp
+#BMP92 ninja16.bmp
+#BMP93 osho1-1.bmp
+#BMP94 osho1-2.bmp
+#BMP95 osho1-3.bmp
+#BMP96 osho1-4.bmp
+#BMP97 osho1-5.bmp
+#BMP98 osho1-6.bmp
+#BMP99 osho1-7.bmp
+#BMP9A osho1-8.bmp
+#BMP9B osho2-1.bmp
+#BMP9C osho2-2.bmp
+#BMP9D osho2-3.bmp
+#BMP9E osho2-4.bmp
+#BMP9F osho2-5.bmp
+#BMPA0 osho2-6.bmp
+#BMPA1 osho2-7.bmp
+#BMPA2 osho2-8.bmp
+#BMPA3 sisimai01.bmp
+#BMPA4 sisimai02.bmp
+#BMPA5 sisimai03.bmp
+#BMPA6 sisimai04.bmp
+#BMPA7 sisimai05.bmp
+#BMPA8 sisimai06.bmp
+#BMPA9 sisimai07.bmp
+#BMPAA sisimai08.bmp
+#BMPAB waza1.bmp
+#BMPAC waza2.bmp
+#BMPAD waza3.bmp
+#BMPAE waza4.bmp
+#BMPAF waza5.bmp
+#BMPB0 waza6.bmp
+#BMPB1 waza7.bmp
+#BMPB2 waza8.bmp
+#BMPB3 waza9.bmp
+#BMPB4 y01.bmp
+#BMPB5 y02.bmp
+#BMPB6 y03.bmp
+#BMPB7 y04.bmp
+#BMPB8 y05.bmp
+#BMPB9 y06.bmp
+#BMPBA y07.bmp
+#BMPBB y08.bmp
+#BMPBC y09.bmp
+#BMPBD y10.bmp
+#BMPBE y11.bmp
+#BMPBF y12.bmp
+#BMPC0 y13.bmp
+#BMPC1 y14.bmp
+#BMPC2 y15.bmp
+#BMPC3 y16.bmp
+#BMPC4 z-daruma01.bmp
+#BMPC5 z-daruma02.bmp
+#BMPC6 z-daruma03.bmp
+#BMPC7 z-dsazae01.bmp
+#BMPC8 z-dsazae02.bmp
+#BMPC9 z-dsazae03.bmp
+#BMPCA z-dsazae04.bmp
+#BMPCB z-higashi01.bmp
+#BMPCC z-higashi02.bmp
+#BMPCD z-higashi03.bmp
+#BMPCE z-higashi04.bmp
+#BMPCF z-higashi05.bmp
+#BMPD0 z-higashi06.bmp
+#BMPD1 z-higashi07.bmp
+#BMPD2 z-higashi08.bmp
+#BMPD3 z-huri01.bmp
+#BMPD4 z-huri02.bmp
+#BMPD5 z-huri03.bmp
+#BMPD6 z-huri04.bmp
+#BMPD7 z-jouge01.bmp
+#BMPD8 z-jouge02.bmp
+#BMPD9 z-jouge03.bmp
+#BMPDA z-kaiten01.bmp
+#BMPDB z-kaiten02.bmp
+#BMPDC z-kaiten03.bmp
+#BMPDD z-kaiten04.bmp
+#BMPDE z-kitakita01.bmp
+#BMPDF z-kitakita02.bmp
+#BMPE0 z-kitakita03.bmp
+#BMPE1 z-kitakita04.bmp
+#BMPE2 z-kitakita05.bmp
+#BMPE3 z-kitakita06.bmp
+#BMPE4 z-kitakita07.bmp
+#BMPE5 z-kitakita08.bmp
+#BMPE6 text01.bmp
+#BMPE7 text02.bmp
+#BMPE8 text03.bmp
+#BMPE9 text04.bmp
+#BMPEA text05.bmp
+#BMPEB text06.bmp
+#BMPEC Photo01.bmp
+#BMPED Photo02.bmp
+#BMPEE Photo03.bmp
+#BMPEF buddhist01.bmp
+#BMPF0 buddhist02.bmp
+#BMPF1 buddhist03.bmp
+#BMPF2 buddhist04.bmp
+#BMPF3 buddhist05.bmp
+#BMPF4 buddhist06.bmp
+#BMPF5 ninja_twin.bmp
+#BMPF6 hakone.bmp
+#BMPF7 syo01.bmp
+#BMPF8 syo02.bmp
+#BMPF9 syo03.bmp
+#BMPFA syo04.bmp
+
+
+
+
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:95
+#00004:5758594B4C4D004E
+#00007:0000001300000000
+
+#00104:4F5051524B000000
+#00107:14
+#00112:0D
+
+#00204:0000004B4C4D004E
+
+#00304:4F5051524B000000
+#00307:15
+#00312:0D
+
+#00404:0000000000000000000000004B0000004C0000004D00000000004E005A5B5A5B
+#00407:0000000000000016
+#00414:0000000000000000000000000000000C
+#00418:000000000000000C
+
+#00504:5A5B5C5D4B000000000000004B0000004C0000004D00000000004E005A5B5A5B
+#00507:1700000000000018
+#00512:0B
+#00514:0000000000000000000000000000000C
+#00518:000000000000000C
+
+#00604:5A5B5C5D4B000000000000004B0000004C0000004D00000000004E005A5B5A5B
+#00607:190000000000001A
+#00612:0B
+#00614:0000000000000000000000000000000C
+#00618:000000000000000C
+
+#00704:5A5B5C5D4B004C004D004E005A5B5A5B5A5B5C5D4B0000004C004D0053545354
+#00707:1B00001C1D00001E
+#00711:0000000000000000000000000000000C
+#00712:0B000000000000000000000000000000000000000000000000000000000000000B0000000000000000000000000000000000000000000000000C000C0000000C
+#00713:00000000000000000000000000000000000000000000000000000000000C000C
+#00714:00000000000000000000000000000C00000000000000000000000000000C000C
+#00715:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000C0C000C0C
+#00718:0000000000000000000000000000000000000000000000000000000000000000000000000C0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000C0000000C000C0000000C
+#00719:0000000000000000000000000000000C
+
+#00801:0000000A
+#00801:00000004
+#00801:00000001
+#00801:00000061
+#00801:00000014
+#00801:00000009
+#00801:00000087
+#00801:00000075
+#00801:00000073
+#00804:53545354535453545354535453545354535455564B0000000000000000000000
+#00807:1F0000000000000020000000000000002100000000000000220000000000000023000000000000002400000000000000250000000000000000000000000000F70000F80000F90000FA0000000000000000000000000000000000000000000000
+#00811:0C0C0C0C0C0C0C0C9300000000000000
+#00812:000C0000000C000C0000000C000C0000000C000C0000000C000C0000000C000C0000000000000000000000000000000000000000000000000000000000000000
+#00813:000C000C000C000C000C000C000C000C00000000000000000000000000000000
+#00814:000C000C000C000C000C000C000C000C00000000000000000000000000000000
+#00815:000C0C000C0C000C0C000C0C000C0C000C0C000C0C000C0C000000000000000000000000000000000000000000000000
+#00818:000C0000000C000C0000000C000C0000000C000C0000000C000C0000000C000C0000000C000C0000000C000C0000000C000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#00819:0C0C0C0C0C0C0C0C9300000000000000
+
