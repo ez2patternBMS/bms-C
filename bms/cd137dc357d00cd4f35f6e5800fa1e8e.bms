@@ -1,0 +1,283 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE HENSHIN SOUND_BossBattle
+#TITLE 歪んライダーツクヨミ変身音[ノーマルフォーム]
+#ARTIST 次元大介 / ツクヨミ
+#BPM 130
+#PLAYLEVEL 4
+#RANK 3
+#TOTAL 100
+#STAGEFILE title.bmp
+
+#WAV01 kick.wav
+#WAV02 kick.wav
+#WAV03 hatA.wav
+#WAV04 hatB.wav
+#WAV05 hatC.wav
+#WAV06 ride.wav
+#WAV07 ride.wav
+#WAV08 rizA.wav
+#WAV09 rizB.wav
+#WAV0A cym.wav
+#WAV0B cym2.wav
+#WAV0C cym2.wav
+#WAV0D cym3.wav
+#WAV0E snareA.wav
+#WAV0F snareB.wav
+#WAV10 snareC.wav
+#WAV11 suzuA.wav
+#WAV12 suzuB.wav
+#WAV13 suzuC.wav
+#WAV15 bgm_01.wav
+#WAV16 bgm_01.wav
+#WAV17 bgm_02.wav
+#WAV18 bgm_03.wav
+#WAV19 bgm_03.wav
+#WAV1A bgm_04.wav
+#WAV1B bgm_05.wav
+#WAV1C bgm_06.wav
+#WAV1D bgm_07.wav
+#WAV1E bgm_08.wav
+#WAV1F bgm_09.wav
+#WAV20 bgm_0A.wav
+#WAV21 bgm_0Aa.wav
+#WAV22 bgm_0B.wav
+#WAV23 bgm_0C.wav
+#WAV24 bgm_0D.wav
+#WAV25 bgm_0D.wav
+#WAV26 bgm_03b.wav
+#WAV27 bgm_03b.wav
+#WAV28 piano_01.wav
+#WAV29 piano_02.wav
+#WAV2A piano_03.wav
+#WAV2B piano_04.wav
+#WAV2C piano_05.wav
+#WAV2D piano_06.wav
+#WAV2E piano_07.wav
+#WAV2F piano_08.wav
+#WAV30 piano_09.wav
+#WAV31 piano_0A.wav
+#WAV32 piano_0B.wav
+#WAV33 piano_0C.wav
+#WAV34 piano_0D.wav
+#WAV35 piano_0E.wav
+#WAV36 piano_0F.wav
+#WAV37 piano_10.wav
+#WAV38 piano_11.wav
+#WAV39 piano_12.wav
+#WAV3A piano_13.wav
+#WAV3B piano_14.wav
+#WAV3C piano_15.wav
+#WAV3D piano_16.wav
+#WAV3E piano_17.wav
+#WAV3F piano_18.wav
+#WAV40 piano_19.wav
+#WAV41 piano_1A.wav
+#WAV42 piano_1B.wav
+#WAV43 piano_1C.wav
+#WAV44 piano_1D.wav
+#WAV45 piano_1E.wav
+#WAV46 piano_1F.wav
+#WAV47 piano_20.wav
+#WAV48 piano_21.wav
+#WAV49 piano_22.wav
+#WAV4A piano_23.wav
+#WAV4B piano_23a.wav
+#WAV4C piano_24.wav
+#WAV4D piano_19.wav
+#WAV4E piano_26.wav
+#WAV4F piano_27.wav
+#WAV50 piano_28.wav
+#WAV51 piano_29.wav
+#WAV52 piano_2A.wav
+#WAV53 piano_2B.wav
+#WAV54 piano_2C.wav
+#WAV55 piano_2D.wav
+#WAV56 piano_2E.wav
+#WAV57 piano_2F.wav
+#WAV58 piano_30.wav
+#WAV59 piano_31.wav
+#WAV5A piano_32.wav
+#WAV5B piano_33.wav
+#WAV5C piano_34.wav
+#WAV5D piano_35.wav
+#WAV5E piano_36.wav
+#WAV5F piano_37.wav
+#WAV60 piano_38.wav
+#WAV61 piano_39.wav
+#WAV62 piano_3A.wav
+#WAV63 piano_3B.wav
+#WAV64 piano_3C.wav
+#WAV65 piano_3D.wav
+#WAV66 piano_3E.wav
+#WAV67 piano_3F.wav
+#WAV68 piano_40.wav
+#WAV69 piano_1D.wav
+#WAV6A piano_1A.wav
+#WAV6B piano_16.wav
+#WAV6C piano_0F.wav
+#WAV6D piano_23a.wav
+#WAV6E piano_17.wav
+#WAV6F piano_1B.wav
+#WAV70 piano_1E.wav
+#WAV71 piano_22.wav
+#WAV72 piano_23.wav
+#WAV73 piano_24.wav
+#WAV74 piano_21.wav
+#WAV75 piano_04.wav
+#WAV76 piano_05.wav
+#WAV77 piano_07.wav
+#WAV78 piano_09.wav
+#WAV79 piano_0C.wav
+#WAV7A piano_0E.wav
+#WAV7B piano_11.wav
+#WAV7C piano_13.wav
+#WAV7D piano_15.wav
+#WAV7E piano_18.wav
+#WAV7F piano_12.wav
+#WAV80 piano_0A.wav
+#WAV81 piano_14.wav
+#WAV82 piano_0B.wav
+#WAV83 piano_01.wav
+#WAV84 horn_01.wav
+#WAV85 horn_02.wav
+#WAV86 horn_03.wav
+#WAV87 horn_04.wav
+#WAV88 horn_05.wav
+#WAV89 horn_06.wav
+#WAV8A horn_07.wav
+#WAV8B horn_08.wav
+#WAV8C horn_09.wav
+#WAV8D horn_0A.wav
+#WAV8E horn_0B.wav
+#WAV8F horn_0C.wav
+#WAV90 horn_0D.wav
+#WAV91 horn_0E.wav
+#WAV92 horn_0F.wav
+#WAV93 horn_10.wav
+#WAV94 horn_11.wav
+#WAV95 horn_12.wav
+#WAV96 horn_13.wav
+#WAV97 horn_14.wav
+#WAV98 horn_15.wav
+#WAV9A horn_16.wav
+#WAV9B horn_17.wav
+#WAV9C horn_18.wav
+#WAV9D horn_19.wav
+#WAV9E horn_1A.wav
+#WAV9F horn_1B.wav
+#WAVA0 horn_1C.wav
+#WAVA2 bell_01.wav
+#WAVA3 bell_02.wav
+#WAVA5 kic.s.wav
+#WAVA6 kic.s.wav
+#WAVA7 kickss.wav
+#WAVA8 kickss.wav
+#WAVA9 vio_01.wav
+#WAVAA vio_02.wav
+#WAVAB vio_03.wav
+#WAVAC vio_04.wav
+#WAVAD vio_05.wav
+#WAVAE vio_06.wav
+#WAVAF vio_07.wav
+#WAVB0 vio_in.wav
+#WAVB2 org_01.wav
+#WAVB3 org_02.wav
+#WAVB4 org_03.wav
+#WAVB5 org_04.wav
+#WAVB6 org_05.wav
+#WAVB7 org_06.wav
+#WAVB8 org_07.wav
+#WAVB9 org_08.wav
+#WAVBA org_09.wav
+#WAVBB org_07.wav
+#WAVBC org_06.wav
+#WAVBD org_02.wav
+#WAVBF orgel_01.wav
+#WAVC0 orgel_02.wav
+#WAVC1 orgel_03.wav
+#WAVC2 orgel_04.wav
+#WAVC3 orgel_05.wav
+#WAVC4 orgel_06.wav
+#WAVC5 orgel_07.wav
+#WAVC6 orgel_08.wav
+#WAVC7 orgel_09.wav
+#WAVC8 orgel_0A.wav
+#WAVC9 orgel_0B.wav
+#WAVCA orgel_0C.wav
+#WAVCB orgel_03.wav
+#WAVCC orgel_06.wav
+#WAVCD orgel_01.wav
+#WAVCE orgel_08.wav
+#WAVD1 beat_01.wav
+#WAVD2 beat_02.wav
+#WAVD3 beat_025.wav
+#WAVD4 beat_03.wav
+#WAVD5 beat_04.wav
+#WAVD6 beat_05.wav
+#WAVD7 beat_06.wav
+#WAVD8 beat_07.wav
+#WAVD9 beat_08.wav
+#WAVDA beat_03.wav
+#WAVDB vo_01.wav
+#WAVDC vo_02.wav
+
+#BMP00 miss.bmp
+#BMP01 still.bmp
+
+
+
+
+#DIFFICULTY 2
+#LNTYPE 1
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00004:01
+
+#00101:00000000030303000303030003030300
+#00101:0008
+#00101:00000000000009000000090900000900
+#00101:0000000500050005
+#00101:00010101
+#00112:32
+#00114:0034000000000000
+#00115:00360000
+#00118:0000000000000036
+#00119:0000000000370000
+
+#00201:03030300030303000803030003030300
+#00201:0800000000000808
+#00201:00000909000009000000090900000000
+#00201:0005000500050000
+#00201:01010101
+#00211:0000002F00000000
+#00213:00003232
+#00214:34
+#00215:0000000000000034
+#00218:0036000000000000
+
+#00301:0000000001010101
+#00301:006D000005000500
+#00301:000000000E0E0E0E
+#00301:00000808
+#00311:002B
+#00312:0000002C
+#00313:0036
+#00314:00000038
+#00316:00CA00000D000C00
+
+#00401:01010101010000000000000000000000
+#00401:05050000
+#00401:0E0E0E0E0E0000000000000000000000
+#00401:08080000
+#00414:2E
+#00415:00600000
+#00416:0B0A0000
+#00418:3A
+#00419:003B0000
+
